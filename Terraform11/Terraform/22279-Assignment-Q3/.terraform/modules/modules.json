@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"compute_instance","Source":"./modules/compute","Dir":"modules/compute"},{"Key":"disk","Source":"./modules/disk","Dir":"modules/disk"},{"Key":"gcs","Source":"./modules/gcs","Dir":"modules/gcs"}]}
