@@ -1,0 +1,5 @@
+variable "network" {
+    
+     default="default"
+}
+
